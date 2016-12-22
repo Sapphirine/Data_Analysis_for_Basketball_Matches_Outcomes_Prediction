@@ -1,0 +1,1219 @@
+0,Miami,Boston,0.0
+1,Toronto,Brooklyn,1.0
+0,Philadelphia,Chicago,0.0
+0,Orlando,Charlotte,0.0
+1,Detroit,Cleveland,0.0
+1,San Antonio,Dallas,0.0
+0,Memphis,Golden State,0.0
+0,Sacramento,Houston,0.0
+0,Utah,LA Lakers,1.0
+1,Indiana,Milwaukee,0.0
+0,New Orleans,Minnesota,0.0
+0,LA Clippers,Phoenix,1.0
+0,Denver,Portland,0.0
+0,Atlanta,Washington,0.0
+1,Miami,Detroit,0.0
+0,New York,Indiana,0.0
+0,Memphis,LA Clippers,0.0
+0,Oklahoma City,San Antonio,0.0
+0,Philadelphia,Toronto,0.0
+1,Charlotte,Boston,0.0
+1,Washington,Brooklyn,1.0
+0,Atlanta,Cleveland,0.0
+1,Houston,Minnesota,1.0
+1,Chicago,New Orleans,0.0
+0,LA Lakers,Oklahoma City,0.0
+0,Milwaukee,Orlando,0.0
+1,Sacramento,Phoenix,0.0
+1,Dallas,Utah,0.0
+1,Utah,Denver,0.0
+0,LA Lakers,Houston,0.0
+0,Brooklyn,Indiana,0.0
+0,Dallas,LA Clippers,0.0
+0,Orlando,Miami,0.0
+1,Toronto,New York,1.0
+1,Milwaukee,Philadelphia,1.0
+1,Golden State,San Antonio,0.0
+0,Charlotte,Washington,0.0
+0,Boston,Atlanta,0.0
+0,Cleveland,Chicago,0.0
+1,Golden State,Memphis,1.0
+1,Phoenix,New Orleans,0.0
+1,Minnesota,Portland,0.0
+0,Oklahoma City,Sacramento,1.0
+0,Milwaukee,Boston,0.0
+0,Brooklyn,Charlotte,0.0
+0,Memphis,Dallas,0.0
+0,San Antonio,Denver,1.0
+0,Washington,Detroit,0.0
+0,LA Lakers,New Orleans,0.0
+0,Miami,Orlando,0.0
+1,New York,Philadelphia,1.0
+0,Indiana,Toronto,0.0
+1,LA Clippers,Utah,0.0
+0,Toronto,Atlanta,0.0
+0,San Antonio,Golden State,0.0
+1,Phoenix,Houston,0.0
+0,Chicago,Miami,0.0
+1,Minnesota,Sacramento,0.0
+0,New Orleans,Boston,0.0
+0,Houston,Dallas,0.0
+0,Cleveland,Indiana,0.0
+1,LA Clippers,LA Lakers,1.0
+1,Charlotte,New York,0.0
+1,Detroit,Orlando,0.0
+0,Oklahoma City,Portland,0.0
+0,Brooklyn,Washington,0.0
+0,Phoenix,Atlanta,0.0
+1,Oklahoma City,Denver,1.0
+1,Minnesota,Golden State,0.0
+0,LA Lakers,LA Clippers,0.0
+0,Chicago,Memphis,0.0
+0,Detroit,Miami,0.0
+1,Cleveland,Milwaukee,1.0
+0,New Orleans,Philadelphia,1.0
+1,Portland,Sacramento,0.0
+0,Charlotte,Toronto,0.0
+1,San Antonio,Utah,0.0
+1,New Orleans,Brooklyn,0.0
+0,Charlotte,Cleveland,0.0
+0,Portland,Golden State,0.0
+0,Oklahoma City,Houston,0.0
+0,Washington,LA Clippers,0.0
+1,Boston,LA Lakers,1.0
+1,Chicago,Milwaukee,0.0
+1,Dallas,Minnesota,1.0
+1,Indiana,New York,0.0
+0,Memphis,Orlando,0.0
+1,Utah,Phoenix,1.0
+1,Detroit,Chicago,0.0
+1,Sacramento,Denver,0.0
+1,Indiana,Philadelphia,1.0
+0,Miami,Portland,0.0
+0,Toronto,San Antonio,0.0
+1,Cleveland,Atlanta,0.0
+0,Philadelphia,Charlotte,0.0
+1,Dallas,Detroit,0.0
+1,Boston,Golden State,0.0
+1,Toronto,Memphis,0.0
+0,Orlando,Milwaukee,0.0
+0,Brooklyn,New York,0.0
+1,Washington,Phoenix,1.0
+1,Miami,Sacramento,0.0
+0,Minnesota,Utah,0.0
+0,Brooklyn,Cleveland,0.0
+1,Chicago,Houston,0.0
+1,Orlando,Indiana,0.0
+0,Denver,New Orleans,0.0
+0,LA Clippers,Oklahoma City,0.0
+0,Boston,Portland,0.0
+0,New York,Dallas,0.0
+0,Miami,LA Lakers,1.0
+1,Denver,Memphis,0.0
+0,Phoenix,Milwaukee,0.0
+1,LA Clippers,Minnesota,1.0
+0,Washington,Sacramento,0.0
+0,New Orleans,San Antonio,0.0
+0,Atlanta,Toronto,0.0
+1,Golden State,Utah,1.0
+1,Houston,Cleveland,0.0
+0,Oklahoma City,Detroit,0.0
+0,Washington,Golden State,0.0
+1,Chicago,Indiana,0.0
+0,Brooklyn,Orlando,0.0
+1,Charlotte,Philadelphia,1.0
+1,Atlanta,Chicago,0.0
+1,Dallas,Denver,0.0
+0,Boston,LA Clippers,0.0
+1,San Antonio,Memphis,1.0
+0,Brooklyn,Miami,0.0
+0,Phoenix,Minnesota,0.0
+0,New York,New Orleans,0.0
+0,Sacramento,Portland,0.0
+1,Oklahoma City,Toronto,0.0
+0,LA Lakers,Utah,0.0
+0,Philadelphia,Golden State,0.0
+0,Houston,Indiana,0.0
+0,Denver,LA Clippers,0.0
+1,Washington,LA Lakers,1.0
+0,Dallas,Sacramento,0.0
+0,Indiana,Brooklyn,1.0
+1,Atlanta,Detroit,0.0
+1,Charlotte,Milwaukee,0.0
+1,Utah,Minnesota,1.0
+1,Toronto,New Orleans,1.0
+1,Cleveland,New York,1.0
+0,San Antonio,Oklahoma City,0.0
+0,Chicago,Orlando,0.0
+1,Boston,Phoenix,1.0
+0,Philadelphia,Portland,0.0
+0,Milwaukee,Atlanta,0.0
+0,Charlotte,Detroit,0.0
+0,Dallas,Golden State,0.0
+0,Toronto,Houston,0.0
+1,Denver,LA Lakers,1.0
+0,Orlando,Miami,0.0
+0,Phoenix,Sacramento,0.0
+0,Memphis,San Antonio,0.0
+1,Minnesota,Washington,0.0
+0,Cleveland,Brooklyn,1.0
+0,New Orleans,Indiana,0.0
+0,Portland,LA Clippers,0.0
+0,Chicago,New York,0.0
+0,Utah,Oklahoma City,0.0
+0,Toronto,Boston,0.0
+1,New York,Chicago,0.0
+0,Milwaukee,Cleveland,0.0
+0,Philadelphia,Denver,0.0
+0,Orlando,Detroit,0.0
+0,LA Clippers,Golden State,0.0
+1,Utah,Houston,0.0
+0,Sacramento,Minnesota,0.0
+0,LA Lakers,Phoenix,0.0
+0,Dallas,Portland,0.0
+0,Miami,San Antonio,0.0
+1,Atlanta,Washington,0.0
+1,Charlotte,Brooklyn,1.0
+0,Memphis,LA Lakers,1.0
+1,Miami,New Orleans,0.0
+0,Houston,Oklahoma City,0.0
+1,Washington,Atlanta,0.0
+0,Orlando,Boston,0.0
+0,Sacramento,Chicago,0.0
+0,San Antonio,Charlotte,0.0
+0,Denver,Cleveland,0.0
+0,Milwaukee,Detroit,0.0
+0,Philadelphia,Indiana,0.0
+1,Golden State,Minnesota,1.0
+1,Memphis,Phoenix,1.0
+0,Portland,Dallas,0.0
+1,Utah,Milwaukee,0.0
+0,LA Clippers,New Orleans,0.0
+1,Sacramento,New York,0.0
+1,Boston,Philadelphia,1.0
+0,Orlando,Toronto,0.0
+0,Houston,Atlanta,0.0
+0,Utah,Chicago,0.0
+1,Denver,Charlotte,0.0
+0,Brooklyn,Detroit,0.0
+1,Oklahoma City,Indiana,0.0
+0,LA Clippers,Memphis,0.0
+0,Cleveland,Miami,0.0
+0,Golden State,San Antonio,0.0
+0,New York,Washington,0.0
+1,Golden State,Dallas,1.0
+0,Sacramento,Detroit,0.0
+0,Minnesota,Houston,0.0
+1,Phoenix,LA Lakers,0.0
+1,Portland,New Orleans,0.0
+1,Cleveland,Orlando,1.0
+1,Oklahoma City,Philadelphia,1.0
+0,Boston,Toronto,0.0
+0,Denver,Atlanta,0.0
+0,Brooklyn,Chicago,0.0
+1,Toronto,Indiana,0.0
+1,Charlotte,Miami,0.0
+0,Memphis,Milwaukee,0.0
+1,Washington,Philadelphia,1.0
+0,Portland,San Antonio,0.0
+0,Phoenix,Utah,0.0
+1,Oklahoma City,Boston,0.0
+0,Orlando,Charlotte,0.0
+0,Dallas,Cleveland,0.0
+1,Atlanta,Detroit,0.0
+0,New York,Golden State,0.0
+1,LA Clippers,Houston,0.0
+1,Minnesota,Memphis,0.0
+1,New Orleans,Sacramento,0.0
+0,Chicago,Washington,0.0
+0,Philadelphia,Brooklyn,0.0
+0,Boston,Indiana,0.0
+1,Sacramento,LA Lakers,1.0
+1,Toronto,Milwaukee,1.0
+0,Denver,Orlando,0.0
+0,LA Clippers,San Antonio,0.0
+1,Dallas,Charlotte,0.0
+0,New Orleans,Golden State,0.0
+0,Memphis,Houston,0.0
+0,Denver,Miami,0.0
+0,Portland,Oklahoma City,0.0
+0,Minnesota,Phoenix,0.0
+1,Chicago,Toronto,0.0
+0,Cleveland,Utah,0.0
+0,Detroit,Washington,0.0
+0,Indiana,Atlanta,0.0
+1,Milwaukee,Brooklyn,0.0
+1,Cleveland,LA Clippers,0.0
+1,New York,LA Lakers,1.0
+1,Utah,Sacramento,0.0
+0,Memphis,Atlanta,0.0
+0,Houston,Charlotte,0.0
+1,Indiana,Dallas,0.0
+0,Washington,Denver,0.0
+0,Phoenix,Golden State,0.0
+0,New Orleans,Milwaukee,0.0
+1,Detroit,Philadelphia,1.0
+0,Orlando,Portland,0.0
+0,Oklahoma City,San Antonio,0.0
+0,Miami,Toronto,0.0
+1,Houston,Boston,0.0
+1,Miami,Chicago,0.0
+0,Detroit,Charlotte,0.0
+0,Portland,Golden State,0.0
+0,New York,LA Clippers,0.0
+0,New Orleans,Memphis,0.0
+1,Minnesota,Oklahoma City,0.0
+0,Brooklyn,Philadelphia,1.0
+1,Orlando,Sacramento,0.0
+0,Washington,Utah,0.0
+0,Phoenix,Denver,0.0
+1,Cleveland,LA Lakers,1.0
+0,Chicago,San Antonio,0.0
+0,Atlanta,Toronto,0.0
+0,Memphis,Boston,0.0
+0,New Orleans,Charlotte,0.0
+1,Detroit,Dallas,0.0
+0,Utah,Golden State,0.0
+0,Miami,Milwaukee,0.0
+0,LA Clippers,Oklahoma City,0.0
+1,Houston,Philadelphia,1.0
+1,New York,Phoenix,0.0
+1,Cleveland,Sacramento,1.0
+0,New York,Denver,0.0
+0,Orlando,LA Lakers,1.0
+1,San Antonio,Minnesota,1.0
+0,Washington,Portland,0.0
+0,Brooklyn,Toronto,0.0
+1,Atlanta,Utah,0.0
+0,Milwaukee,Chicago,0.0
+0,Minnesota,Charlotte,0.0
+1,Memphis,Cleveland,0.0
+1,LA Clippers,Dallas,0.0
+0,Orlando,Golden State,0.0
+0,San Antonio,Indiana,0.0
+0,Sacramento,New Orleans,0.0
+0,Dallas,Denver,0.0
+0,Portland,Detroit,0.0
+0,Golden State,LA Lakers,1.0
+1,Phoenix,Memphis,0.0
+0,Philadelphia,Miami,0.0
+1,Oklahoma City,Milwaukee,0.0
+1,Houston,Toronto,0.0
+0,Houston,Chicago,0.0
+0,Boston,Cleveland,0.0
+1,Atlanta,LA Clippers,0.0
+0,Brooklyn,Minnesota,0.0
+1,Utah,New Orleans,0.0
+0,Detroit,New York,0.0
+0,Sacramento,San Antonio,0.0
+1,Indiana,Washington,0.0
+0,New York,Boston,0.0
+0,Indiana,Charlotte,0.0
+0,Washington,Cleveland,0.0
+1,Brooklyn,Denver,0.0
+1,Atlanta,LA Lakers,1.0
+0,Utah,Memphis,0.0
+0,Minnesota,Milwaukee,0.0
+1,Phoenix,Orlando,0.0
+1,Miami,Philadelphia,1.0
+0,Portland,Toronto,0.0
+1,Sacramento,Dallas,0.0
+0,Oklahoma City,Golden State,0.0
+0,Phoenix,Miami,0.0
+1,San Antonio,New Orleans,1.0
+0,Portland,Boston,0.0
+0,LA Lakers,Denver,0.0
+0,New Orleans,Houston,0.0
+0,Oklahoma City,LA Clippers,0.0
+0,Sacramento,Memphis,0.0
+1,Indiana,Milwaukee,0.0
+1,Washington,Minnesota,1.0
+0,Chicago,Orlando,0.0
+1,Charlotte,Philadelphia,1.0
+0,Detroit,San Antonio,0.0
+0,Utah,Toronto,0.0
+0,Phoenix,Charlotte,0.0
+0,Orlando,Dallas,0.0
+0,Atlanta,Golden State,0.0
+0,Brooklyn,LA Lakers,0.0
+0,Chicago,Miami,0.0
+1,Portland,New York,0.0
+0,Utah,Boston,0.0
+0,Indiana,Cleveland,0.0
+1,Memphis,Denver,0.0
+0,Brooklyn,LA Clippers,0.0
+0,Houston,Milwaukee,0.0
+1,Oklahoma City,Sacramento,1.0
+0,Philadelphia,Washington,0.0
+0,Charlotte,Atlanta,0.0
+0,Minnesota,Dallas,0.0
+0,Toronto,Detroit,0.0
+1,Portland,Indiana,0.0
+1,Miami,New York,0.0
+0,Philadelphia,Orlando,0.0
+0,Cleveland,Washington,0.0
+0,Miami,Boston,0.0
+1,Portland,Chicago,0.0
+1,San Antonio,Houston,1.0
+1,Detroit,Milwaukee,0.0
+1,Minnesota,New Orleans,0.0
+1,Golden State,Oklahoma City,0.0
+0,Memphis,Phoenix,1.0
+1,Brooklyn,Utah,0.0
+0,Chicago,Atlanta,0.0
+0,Denver,Dallas,0.0
+1,Charlotte,Indiana,0.0
+1,Memphis,LA Lakers,1.0
+0,Orlando,New York,0.0
+1,Washington,Philadelphia,1.0
+1,LA Clippers,Sacramento,1.0
+0,Cleveland,Toronto,0.0
+0,Milwaukee,Boston,0.0
+0,Oklahoma City,New Orleans,0.0
+1,Golden State,Orlando,1.0
+1,Brooklyn,Phoenix,0.0
+1,Houston,Portland,0.0
+1,San Antonio,Utah,0.0
+0,Washington,Chicago,0.0
+0,Charlotte,Cleveland,0.0
+1,Oklahoma City,Dallas,0.0
+0,Philadelphia,Detroit,0.0
+0,New York,Indiana,0.0
+1,Denver,LA Clippers,0.0
+0,LA Lakers,Memphis,0.0
+1,Golden State,Miami,0.0
+1,San Antonio,Sacramento,1.0
+0,Minnesota,Toronto,0.0
+1,Sacramento,Denver,0.0
+1,Orlando,Philadelphia,1.0
+0,Brooklyn,Portland,0.0
+0,Houston,Utah,0.0
+0,New Orleans,Washington,0.0
+1,Golden State,Atlanta,0.0
+1,Detroit,Cleveland,0.0
+0,Phoenix,LA Clippers,0.0
+0,Indiana,Miami,0.0
+0,LA Lakers,Milwaukee,0.0
+0,Boston,Minnesota,1.0
+1,Toronto,New York,1.0
+1,Charlotte,Brooklyn,1.0
+0,LA Lakers,Chicago,0.0
+0,Philadelphia,Dallas,0.0
+1,Boston,Denver,0.0
+1,New Orleans,Detroit,0.0
+1,Cleveland,Oklahoma City,0.0
+1,Indiana,Orlando,0.0
+1,San Antonio,Phoenix,1.0
+0,Utah,Portland,0.0
+0,Memphis,Toronto,0.0
+1,Milwaukee,Atlanta,0.0
+1,Golden State,LA Clippers,0.0
+0,Washington,Miami,0.0
+1,New York,Minnesota,0.0
+1,Miami,Atlanta,0.0
+0,New York,Brooklyn,0.0
+0,Toronto,Chicago,0.0
+1,San Antonio,LA Lakers,1.0
+0,Minnesota,Memphis,0.0
+1,Charlotte,Milwaukee,0.0
+0,Philadelphia,New Orleans,0.0
+1,Indiana,Oklahoma City,0.0
+0,Dallas,Orlando,0.0
+1,Houston,Phoenix,1.0
+0,Golden State,Portland,0.0
+0,Denver,Sacramento,0.0
+0,Boston,Utah,0.0
+0,Detroit,Washington,0.0
+0,Chicago,Cleveland,0.0
+0,San Antonio,LA Clippers,0.0
+0,Utah,Washington,0.0
+0,Washington,Milwaukee,0.0
+0,New Orleans,Oklahoma City,0.0
+0,LA Clippers,Boston,0.0
+1,Memphis,Brooklyn,1.0
+1,Atlanta,Chicago,0.0
+0,LA Lakers,Cleveland,0.0
+1,Denver,Detroit,0.0
+1,Charlotte,Indiana,0.0
+0,Toronto,Minnesota,1.0
+0,Utah,New Orleans,0.0
+1,San Antonio,Orlando,1.0
+1,Sacramento,Philadelphia,1.0
+1,Golden State,Phoenix,1.0
+0,Houston,Portland,0.0
+1,Utah,Dallas,0.0
+0,Houston,Golden State,0.0
+1,San Antonio,Miami,0.0
+0,Boston,Milwaukee,0.0
+1,Washington,New York,0.0
+1,Orlando,Atlanta,0.0
+0,Denver,Brooklyn,0.0
+0,Chicago,Charlotte,0.0
+0,Sacramento,Cleveland,0.0
+1,Toronto,Detroit,0.0
+0,LA Lakers,Indiana,0.0
+1,Portland,Memphis,0.0
+1,New Orleans,Minnesota,0.0
+1,LA Clippers,Philadelphia,1.0
+1,Oklahoma City,Phoenix,1.0
+0,Sacramento,Boston,0.0
+1,LA Clippers,Miami,0.0
+1,Denver,New York,0.0
+0,Atlanta,Orlando,0.0
+0,Washington,Charlotte,0.0
+0,New Orleans,Cleveland,0.0
+0,Oklahoma City,Golden State,0.0
+1,Portland,Houston,0.0
+0,Detroit,Indiana,0.0
+1,Dallas,Memphis,0.0
+0,Chicago,Minnesota,1.0
+0,Brooklyn,Philadelphia,1.0
+1,Utah,Phoenix,1.0
+0,LA Lakers,San Antonio,0.0
+0,Indiana,Atlanta,0.0
+0,Sacramento,Brooklyn,0.0
+1,Miami,Charlotte,0.0
+1,Boston,Cleveland,0.0
+1,San Antonio,Dallas,0.0
+0,Chicago,Denver,0.0
+1,Memphis,New York,0.0
+1,LA Clippers,Orlando,0.0
+0,Milwaukee,Utah,0.0
+0,Philadelphia,Washington,0.0
+0,New York,Detroit,0.0
+1,LA Lakers,New Orleans,0.0
+1,Houston,Phoenix,1.0
+1,Toronto,Portland,0.0
+0,Detroit,Boston,0.0
+1,Indiana,Brooklyn,1.0
+0,Cleveland,Charlotte,0.0
+1,Miami,Dallas,0.0
+1,Minnesota,LA Clippers,0.0
+0,Orlando,Oklahoma City,0.0
+1,Atlanta,Philadelphia,1.0
+1,Chicago,Sacramento,0.0
+0,New Orleans,San Antonio,0.0
+0,Denver,Utah,0.0
+1,Golden State,Washington,1.0
+0,Miami,Houston,0.0
+0,Minnesota,LA Lakers,0.0
+1,Boston,New York,0.0
+1,Toronto,Phoenix,1.0
+0,Milwaukee,Portland,0.0
+0,Dallas,Atlanta,0.0
+1,Detroit,Brooklyn,1.0
+0,Toronto,Denver,1.0
+1,Cleveland,Indiana,0.0
+1,Memphis,New Orleans,0.0
+0,Washington,Oklahoma City,0.0
+0,Milwaukee,Sacramento,0.0
+0,Orlando,San Antonio,0.0
+0,Chicago,Utah,0.0
+0,Phoenix,Dallas,0.0
+0,Chicago,LA Clippers,0.0
+1,Charlotte,LA Lakers,1.0
+0,Atlanta,Miami,0.0
+1,Golden State,New York,1.0
+0,Boston,Orlando,0.0
+0,Minnesota,Portland,0.0
+0,San Antonio,Cleveland,0.0
+1,Washington,Houston,0.0
+0,Denver,Indiana,0.0
+0,Sacramento,Memphis,0.0
+0,Brooklyn,New Orleans,0.0
+1,Golden State,Philadelphia,1.0
+0,Detroit,Toronto,0.0
+0,Orlando,Boston,0.0
+0,Brooklyn,Dallas,0.0
+1,Cleveland,Detroit,0.0
+0,LA Lakers,LA Clippers,0.0
+1,Miami,Milwaukee,0.0
+0,Phoenix,New York,0.0
+0,Houston,Oklahoma City,0.0
+0,Charlotte,Portland,0.0
+0,Minnesota,Utah,0.0
+0,Atlanta,Indiana,0.0
+1,Chicago,LA Lakers,1.0
+0,Milwaukee,Memphis,0.0
+0,Sacramento,New Orleans,0.0
+0,New York,Toronto,0.0
+1,Denver,Washington,0.0
+1,LA Clippers,Atlanta,0.0
+0,Denver,Boston,0.0
+0,Phoenix,Cleveland,0.0
+0,Philadelphia,Detroit,0.0
+0,Dallas,Golden State,0.0
+1,Oklahoma City,Minnesota,1.0
+0,Houston,San Antonio,0.0
+0,Charlotte,Utah,0.0
+1,Miami,Brooklyn,1.0
+1,LA Clippers,Indiana,0.0
+1,Dallas,LA Lakers,1.0
+0,Orlando,Milwaukee,0.0
+1,Oklahoma City,New York,0.0
+0,Phoenix,Philadelphia,1.0
+0,Sacramento,Portland,0.0
+0,Washington,Toronto,0.0
+1,Miami,Chicago,0.0
+0,Minnesota,Cleveland,0.0
+1,Atlanta,Denver,0.0
+0,San Antonio,Golden State,0.0
+0,Orlando,Memphis,0.0
+1,Houston,New Orleans,0.0
+1,Charlotte,Sacramento,0.0
+1,Detroit,Utah,0.0
+1,Boston,Washington,0.0
+0,Oklahoma City,Brooklyn,1.0
+0,Dallas,Houston,0.0
+1,Boston,Philadelphia,1.0
+0,LA Clippers,Toronto,0.0
+0,New York,Charlotte,0.0
+1,Chicago,Cleveland,0.0
+0,Detroit,Denver,0.0
+0,Memphis,Minnesota,1.0
+0,Milwaukee,New Orleans,0.0
+0,Atlanta,Phoenix,1.0
+0,LA Lakers,Portland,0.0
+0,Indiana,Sacramento,0.0
+0,Chicago,Boston,0.0
+1,Utah,Brooklyn,1.0
+1,Oklahoma City,Dallas,0.0
+0,Indiana,Golden State,0.0
+0,Milwaukee,Houston,0.0
+1,San Antonio,LA Lakers,1.0
+1,LA Clippers,New York,1.0
+1,Charlotte,Orlando,0.0
+0,Miami,Toronto,0.0
+0,LA Clippers,Cleveland,0.0
+1,Memphis,Denver,0.0
+0,Detroit,New Orleans,0.0
+1,San Antonio,Phoenix,1.0
+0,Atlanta,Sacramento,0.0
+1,Cleveland,Brooklyn,1.0
+1,Golden State,Chicago,0.0
+0,Minnesota,Dallas,0.0
+1,Detroit,Houston,0.0
+1,Sacramento,LA Lakers,1.0
+0,Utah,New York,0.0
+0,Charlotte,Oklahoma City,0.0
+1,Philadelphia,Orlando,0.0
+1,Atlanta,Portland,0.0
+0,Boston,Toronto,0.0
+0,Miami,Washington,0.0
+1,Oklahoma City,Denver,1.0
+1,Milwaukee,Miami,0.0
+0,Minnesota,New Orleans,0.0
+1,Indiana,Phoenix,1.0
+0,Orlando,Atlanta,0.0
+0,Utah,Charlotte,0.0
+1,Golden State,Cleveland,0.0
+0,Boston,Dallas,0.0
+1,Chicago,Detroit,0.0
+0,Houston,LA Clippers,0.0
+0,New Orleans,Memphis,0.0
+0,Philadelphia,New York,0.0
+0,Brooklyn,Toronto,0.0
+1,Portland,Washington,0.0
+0,Indiana,Denver,0.0
+1,Houston,LA Lakers,1.0
+0,Phoenix,Minnesota,0.0
+0,Miami,Oklahoma City,0.0
+0,Dallas,San Antonio,0.0
+0,Brooklyn,Atlanta,0.0
+1,Milwaukee,Charlotte,0.0
+0,Golden State,Detroit,1.0
+1,Sacramento,LA Clippers,0.0
+0,New York,Memphis,0.0
+0,Portland,Philadelphia,1.0
+0,LA Lakers,Utah,0.0
+1,Boston,Washington,0.0
+0,Phoenix,Boston,0.0
+1,Portland,Brooklyn,1.0
+1,Dallas,Chicago,0.0
+1,Miami,Denver,0.0
+1,Cleveland,Houston,0.0
+1,Washington,Indiana,0.0
+0,Atlanta,Milwaukee,0.0
+0,Charlotte,New Orleans,0.0
+0,Minnesota,Oklahoma City,0.0
+0,LA Lakers,Golden State,0.0
+0,Detroit,Memphis,0.0
+1,Toronto,Orlando,0.0
+1,Chicago,Philadelphia,1.0
+0,Cleveland,San Antonio,0.0
+1,Sacramento,Utah,0.0
+0,Indiana,Boston,0.0
+0,New York,Brooklyn,0.0
+0,Atlanta,Charlotte,0.0
+0,Golden State,Denver,1.0
+0,Minnesota,Houston,0.0
+0,Miami,LA Clippers,0.0
+0,Dallas,Oklahoma City,0.0
+0,Utah,Portland,0.0
+1,New Orleans,Sacramento,0.0
+0,Milwaukee,Washington,0.0
+1,Cleveland,Dallas,0.0
+1,San Antonio,Detroit,0.0
+0,Phoenix,Indiana,0.0
+0,New Orleans,LA Lakers,1.0
+1,Houston,Memphis,0.0
+0,Chicago,Milwaukee,0.0
+1,Oklahoma City,Minnesota,1.0
+0,Boston,New York,0.0
+1,San Antonio,Brooklyn,1.0
+1,Washington,Chicago,0.0
+0,Miami,Golden State,0.0
+0,Charlotte,Denver,0.0
+0,Indiana,Houston,0.0
+0,New Orleans,LA Clippers,0.0
+1,Utah,LA Lakers,1.0
+0,Boston,Memphis,0.0
+1,Dallas,Minnesota,1.0
+0,Milwaukee,New York,0.0
+1,Cleveland,Philadelphia,1.0
+0,Oklahoma City,Portland,0.0
+0,Chicago,Atlanta,0.0
+0,Brooklyn,Detroit,0.0
+0,Charlotte,LA Clippers,0.0
+1,Washington,Orlando,0.0
+1,Toronto,Philadelphia,1.0
+1,Golden State,Sacramento,1.0
+0,Miami,Utah,0.0
+1,Orlando,Brooklyn,1.0
+1,Oklahoma City,LA Lakers,1.0
+0,Denver,Memphis,0.0
+0,Dallas,Milwaukee,0.0
+1,Cleveland,Minnesota,1.0
+1,Indiana,New Orleans,0.0
+1,Miami,Phoenix,1.0
+1,Golden State,Portland,0.0
+0,New York,San Antonio,0.0
+1,Toronto,Washington,0.0
+0,Boston,Chicago,0.0
+0,Utah,Houston,0.0
+1,Atlanta,Philadelphia,1.0
+0,LA Lakers,Sacramento,0.0
+1,Detroit,Boston,0.0
+1,Toronto,Brooklyn,1.0
+1,New York,Miami,0.0
+1,Denver,Minnesota,0.0
+1,Dallas,New Orleans,0.0
+0,Memphis,Oklahoma City,0.0
+1,Indiana,Orlando,0.0
+0,Charlotte,Phoenix,1.0
+1,LA Clippers,Portland,0.0
+0,Utah,San Antonio,0.0
+1,Cleveland,Washington,0.0
+1,New York,Atlanta,0.0
+0,Milwaukee,Chicago,0.0
+0,Sacramento,Dallas,0.0
+1,Golden State,LA Lakers,1.0
+1,Boston,Brooklyn,1.0
+0,Toronto,Cleveland,0.0
+0,Orlando,Detroit,0.0
+0,Charlotte,Golden State,0.0
+0,Indiana,Miami,0.0
+1,San Antonio,Milwaukee,1.0
+1,Sacramento,Oklahoma City,0.0
+0,Minnesota,Philadelphia,1.0
+1,Memphis,Portland,0.0
+1,Houston,Utah,0.0
+1,Portland,Denver,0.0
+0,Phoenix,LA Lakers,0.0
+0,Atlanta,New York,0.0
+1,Chicago,Toronto,0.0
+1,Miami,Washington,0.0
+0,New York,Chicago,0.0
+0,Philadelphia,LA Lakers,0.0
+0,Dallas,Miami,0.0
+0,Charlotte,Toronto,0.0
+0,Orlando,Washington,0.0
+0,Minnesota,Detroit,0.0
+1,Golden State,Houston,1.0
+1,Milwaukee,Indiana,0.0
+1,LA Clippers,New Orleans,0.0
+0,Phoenix,Oklahoma City,0.0
+0,Portland,Utah,0.0
+1,LA Lakers,Boston,0.0
+0,Indiana,Chicago,0.0
+1,LA Clippers,Charlotte,0.0
+0,Golden State,Dallas,1.0
+0,Utah,Minnesota,1.0
+0,Brooklyn,Orlando,0.0
+0,Denver,Portland,0.0
+1,Philadelphia,Sacramento,0.0
+0,Phoenix,San Antonio,0.0
+0,Washington,Toronto,0.0
+1,Cleveland,Denver,1.0
+1,Atlanta,Houston,0.0
+0,Miami,Memphis,0.0
+0,Detroit,New York,0.0
+0,Milwaukee,Oklahoma City,0.0
+0,Toronto,Chicago,0.0
+0,LA Lakers,Charlotte,0.0
+0,Milwaukee,Dallas,0.0
+0,Sacramento,Golden State,0.0
+0,Atlanta,Indiana,0.0
+1,Brooklyn,Miami,0.0
+0,New Orleans,Orlando,0.0
+1,Cleveland,Phoenix,1.0
+0,Minnesota,San Antonio,0.0
+0,Philadelphia,Utah,0.0
+1,LA Clippers,Washington,0.0
+0,New York,Boston,0.0
+0,LA Lakers,Memphis,0.0
+0,Denver,Oklahoma City,0.0
+1,Portland,Sacramento,0.0
+0,New York,Atlanta,0.0
+1,Washington,Brooklyn,1.0
+0,Memphis,Charlotte,0.0
+0,Chicago,Dallas,0.0
+1,Boston,Detroit,0.0
+1,Toronto,Milwaukee,1.0
+1,Indiana,Minnesota,1.0
+0,Houston,New Orleans,0.0
+1,Miami,Orlando,0.0
+1,Philadelphia,Phoenix,0.0
+0,Cleveland,Portland,0.0
+0,Denver,San Antonio,0.0
+1,LA Clippers,Utah,0.0
+0,Cleveland,Golden State,0.0
+0,San Antonio,Houston,1.0
+1,LA Clippers,LA Lakers,1.0
+0,New Orleans,Miami,0.0
+1,Chicago,Oklahoma City,0.0
+0,Detroit,Atlanta,0.0
+1,Dallas,Brooklyn,1.0
+1,Boston,Charlotte,0.0
+0,New York,Cleveland,0.0
+0,Utah,Golden State,0.0
+1,Sacramento,Indiana,0.0
+1,Oklahoma City,LA Lakers,1.0
+0,Philadelphia,Milwaukee,0.0
+1,San Antonio,Minnesota,1.0
+0,Portland,New Orleans,0.0
+0,Houston,Orlando,0.0
+1,Denver,Phoenix,0.0
+0,Memphis,Washington,0.0
+1,LA Lakers,Denver,0.0
+1,Detroit,Miami,0.0
+1,Memphis,Philadelphia,1.0
+0,Dallas,Toronto,0.0
+0,Portland,Atlanta,0.0
+0,Minnesota,Boston,0.0
+1,Brooklyn,Chicago,0.0
+0,Charlotte,Houston,0.0
+1,Oklahoma City,LA Clippers,0.0
+1,Orlando,New York,0.0
+0,Indiana,San Antonio,0.0
+0,Phoenix,Utah,0.0
+0,Sacramento,Washington,0.0
+1,Minnesota,Brooklyn,0.0
+0,Philadelphia,Cleveland,0.0
+1,New Orleans,Denver,0.0
+0,Portland,Miami,0.0
+1,Atlanta,Orlando,0.0
+1,Milwaukee,Phoenix,0.0
+1,Sacramento,Toronto,0.0
+0,LA Clippers,Houston,0.0
+0,Indiana,Memphis,0.0
+0,Chicago,New York,0.0
+0,LA Lakers,Oklahoma City,0.0
+0,Charlotte,Washington,0.0
+1,Atlanta,Boston,0.0
+1,Detroit,Chicago,0.0
+0,Memphis,Dallas,0.0
+0,Milwaukee,Golden State,0.0
+0,Brooklyn,Indiana,0.0
+1,Toronto,Miami,0.0
+0,Sacramento,Minnesota,0.0
+0,Portland,Orlando,0.0
+1,New York,Philadelphia,1.0
+0,New Orleans,Phoenix,0.0
+0,LA Clippers,San Antonio,0.0
+0,Denver,Utah,0.0
+0,Toronto,Charlotte,0.0
+0,Oklahoma City,Cleveland,0.0
+1,Houston,LA Lakers,1.0
+0,Philadelphia,Atlanta,0.0
+1,Miami,Brooklyn,1.0
+0,Memphis,Chicago,0.0
+0,Boston,Detroit,0.0
+0,Phoenix,Golden State,0.0
+0,Dallas,Indiana,0.0
+0,Milwaukee,LA Clippers,0.0
+0,Minnesota,New York,0.0
+0,Portland,Oklahoma City,0.0
+0,Charlotte,Orlando,0.0
+0,Washington,San Antonio,0.0
+1,New Orleans,Utah,0.0
+1,Cleveland,Boston,0.0
+0,Milwaukee,LA Lakers,1.0
+1,Denver,Minnesota,0.0
+0,Houston,Sacramento,0.0
+1,Miami,Atlanta,0.0
+1,Orlando,Brooklyn,1.0
+0,Philadelphia,Chicago,0.0
+0,Phoenix,Dallas,0.0
+0,Houston,Denver,0.0
+1,LA Clippers,Detroit,0.0
+0,Toronto,Indiana,0.0
+0,Washington,Memphis,0.0
+0,New Orleans,Portland,0.0
+0,Utah,San Antonio,0.0
+0,Memphis,Miami,0.0
+0,Utah,Oklahoma City,0.0
+0,Minnesota,Phoenix,0.0
+0,Philadelphia,Toronto,0.0
+1,San Antonio,Atlanta,0.0
+1,LA Clippers,Brooklyn,1.0
+0,New Orleans,Chicago,0.0
+1,Boston,Charlotte,0.0
+1,Washington,Dallas,0.0
+0,Indiana,Detroit,0.0
+0,LA Lakers,Houston,0.0
+0,Golden State,Milwaukee,1.0
+1,New York,Portland,0.0
+1,Golden State,Boston,0.0
+0,Minnesota,Denver,0.0
+0,Miami,Indiana,0.0
+1,Charlotte,Memphis,0.0
+0,Washington,New Orleans,0.0
+1,Cleveland,Orlando,1.0
+1,Detroit,Philadelphia,1.0
+1,Portland,Phoenix,1.0
+0,LA Lakers,San Antonio,0.0
+0,Milwaukee,Toronto,0.0
+1,Oklahoma City,Utah,0.0
+0,Philadelphia,Brooklyn,0.0
+0,LA Clippers,Chicago,0.0
+0,Atlanta,Oklahoma City,0.0
+0,New York,Sacramento,0.0
+0,Chicago,Boston,0.0
+0,Miami,Charlotte,0.0
+1,Atlanta,Dallas,0.0
+1,Memphis,Detroit,0.0
+1,LA Clippers,Milwaukee,1.0
+0,LA Lakers,Minnesota,0.0
+0,Orlando,Phoenix,1.0
+0,San Antonio,Toronto,0.0
+0,New York,Utah,0.0
+1,Houston,Washington,0.0
+0,Houston,Brooklyn,1.0
+0,Portland,Cleveland,0.0
+1,Orlando,Denver,0.0
+1,Golden State,Indiana,1.0
+1,Oklahoma City,Memphis,0.0
+0,Utah,Sacramento,0.0
+1,Phoenix,Chicago,0.0
+0,Detroit,Charlotte,0.0
+1,Washington,Miami,0.0
+0,Portland,Milwaukee,0.0
+1,LA Clippers,Minnesota,1.0
+1,Boston,New Orleans,0.0
+1,Dallas,New York,0.0
+1,San Antonio,Philadelphia,1.0
+0,LA Lakers,Toronto,0.0
+1,Golden State,Brooklyn,1.0
+0,LA Lakers,Detroit,0.0
+0,Phoenix,Memphis,0.0
+0,Sacramento,Oklahoma City,0.0
+1,Dallas,Washington,0.0
+1,Charlotte,Chicago,0.0
+0,Sacramento,Houston,0.0
+0,Orlando,LA Clippers,0.0
+0,Cleveland,Miami,0.0
+0,New York,Milwaukee,0.0
+1,Portland,Minnesota,1.0
+1,Denver,Philadelphia,1.0
+0,Boston,San Antonio,0.0
+1,Golden State,Toronto,0.0
+0,Indiana,Utah,0.0
+0,LA Lakers,Atlanta,0.0
+1,Houston,Dallas,0.0
+0,Milwaukee,Detroit,0.0
+0,Cleveland,New Orleans,1.0
+0,Brooklyn,New York,0.0
+0,Phoenix,Washington,0.0
+1,San Antonio,Memphis,1.0
+0,Oklahoma City,Miami,0.0
+0,Indiana,Portland,0.0
+1,Boston,Sacramento,0.0
+1,Denver,Toronto,0.0
+1,Orlando,Utah,0.0
+1,Toronto,Atlanta,0.0
+0,Denver,Chicago,0.0
+1,Golden State,Charlotte,0.0
+0,Phoenix,Detroit,0.0
+0,New Orleans,Houston,0.0
+1,Indiana,LA Clippers,0.0
+0,Philadelphia,New York,0.0
+0,Milwaukee,San Antonio,0.0
+1,LA Lakers,Washington,0.0
+0,Phoenix,Brooklyn,0.0
+1,Washington,Cleveland,0.0
+1,Orlando,Minnesota,0.0
+1,Memphis,New Orleans,0.0
+0,LA Lakers,Philadelphia,1.0
+1,Dallas,Portland,0.0
+0,Oklahoma City,Atlanta,0.0
+0,San Antonio,Chicago,0.0
+0,Houston,Detroit,0.0
+0,Portland,LA Clippers,0.0
+1,Boston,Miami,0.0
+0,Denver,Milwaukee,0.0
+0,Dallas,Sacramento,0.0
+1,Golden State,Utah,1.0
+0,Detroit,Brooklyn,1.0
+0,Milwaukee,Charlotte,0.0
+0,Minnesota,LA Clippers,0.0
+1,Indiana,LA Lakers,1.0
+0,Philadelphia,Memphis,0.0
+1,Houston,New York,0.0
+0,Boston,Orlando,0.0
+1,Phoenix,Toronto,0.0
+0,Brooklyn,Cleveland,0.0
+0,Denver,Dallas,0.0
+0,Sacramento,Golden State,0.0
+0,LA Lakers,Portland,0.0
+0,Atlanta,San Antonio,0.0
+0,New Orleans,Utah,0.0
+1,Toronto,Washington,0.0
+0,Washington,Boston,0.0
+1,Cleveland,Charlotte,0.0
+1,San Antonio,Denver,1.0
+0,Philadelphia,Houston,0.0
+0,Chicago,Indiana,0.0
+0,New Orleans,LA Clippers,0.0
+1,Atlanta,Memphis,0.0
+1,Miami,New York,0.0
+0,Detroit,Oklahoma City,0.0
+0,Milwaukee,Orlando,0.0
+1,Golden State,Phoenix,1.0
+1,Minnesota,Sacramento,0.0
+0,Philadelphia,Boston,0.0
+0,Washington,Charlotte,0.0
+0,Miami,Detroit,0.0
+1,Memphis,Houston,0.0
+1,Utah,LA Clippers,0.0
+1,Sacramento,Milwaukee,0.0
+0,Atlanta,Minnesota,1.0
+0,Brooklyn,Oklahoma City,0.0
+0,New York,Orlando,0.0
+1,New Orleans,Phoenix,0.0
+0,Dallas,San Antonio,0.0
+0,Cleveland,Toronto,0.0
+0,Boston,Atlanta,0.0
+1,LA Clippers,Denver,1.0
+0,LA Lakers,Golden State,0.0
+0,Dallas,Memphis,0.0
+1,Chicago,Portland,0.0
+1,Indiana,Washington,0.0
+0,Sacramento,Charlotte,0.0
+0,Orlando,Cleveland,0.0
+0,New York,Miami,0.0
+0,Detroit,Milwaukee,0.0
+0,Philadelphia,Minnesota,0.0
+0,Phoenix,San Antonio,0.0
+1,Oklahoma City,Utah,0.0
+0,Boston,Brooklyn,1.0
+1,Golden State,Denver,1.0
+1,Toronto,LA Clippers,0.0
+1,Portland,LA Lakers,1.0
+0,Phoenix,New Orleans,0.0
+0,Dallas,Oklahoma City,0.0
+0,Atlanta,Cleveland,0.0
+1,Washington,Detroit,0.0
+1,New York,Houston,0.0
+0,Milwaukee,Indiana,0.0
+0,Philadelphia,Miami,0.0
+1,Sacramento,Orlando,0.0
+0,Memphis,San Antonio,0.0
+0,Brooklyn,Boston,0.0
+0,Philadelphia,Charlotte,0.0
+0,Utah,Dallas,0.0
+1,Phoenix,Denver,0.0
+0,Chicago,Golden State,0.0
+1,Toronto,LA Lakers,1.0
+0,Houston,Memphis,0.0
+1,Detroit,Minnesota,1.0
+0,San Antonio,New Orleans,1.0
+1,New York,Oklahoma City,0.0
+0,LA Clippers,Portland,0.0
+0,Milwaukee,Cleveland,0.0
+1,Golden State,LA Clippers,0.0
+0,Sacramento,Miami,0.0
+0,Sacramento,Atlanta,0.0
+1,Dallas,Boston,0.0
+0,Brooklyn,Charlotte,0.0
+0,Portland,Houston,0.0
+0,New Orleans,Oklahoma City,0.0
+0,Minnesota,Orlando,0.0
+1,Indiana,Philadelphia,1.0
+1,Chicago,Phoenix,1.0
+0,Denver,San Antonio,0.0
+0,Toronto,Utah,0.0
+0,Atlanta,Brooklyn,1.0
+0,Cleveland,Detroit,0.0
+0,Toronto,Golden State,0.0
+1,Minnesota,Miami,0.0
+1,Denver,New Orleans,0.0
+0,Charlotte,New York,0.0
+0,Milwaukee,Washington,0.0
+0,Indiana,Chicago,0.0
+1,Boston,Houston,0.0
+0,Oklahoma City,Memphis,0.0
+1,Dallas,Philadelphia,1.0
+0,LA Lakers,Phoenix,0.0
+0,Portland,San Antonio,0.0
+1,Utah,Atlanta,0.0
+0,Portland,Charlotte,0.0
+0,Detroit,LA Lakers,1.0
+1,Memphis,Minnesota,1.0
+0,New Orleans,New York,0.0
+1,Boston,Oklahoma City,0.0
+0,Toronto,Sacramento,1.0
+0,Brooklyn,Golden State,0.0
+1,Dallas,Houston,0.0
+0,Detroit,LA Clippers,0.0
+0,Cleveland,Milwaukee,1.0
+0,Denver,Phoenix,0.0
+0,Philadelphia,San Antonio,0.0
+0,Orlando,Washington,0.0
+0,Atlanta,Boston,0.0
+0,Charlotte,Chicago,0.0
+0,LA Lakers,Dallas,0.0
+0,Houston,Denver,0.0
+0,Minnesota,Indiana,0.0
+0,Portland,Memphis,0.0
+1,Cleveland,New York,1.0
+0,Philadelphia,Oklahoma City,0.0
+0,Utah,Orlando,0.0
+0,Brooklyn,Sacramento,0.0
+0,New Orleans,Toronto,0.0
+0,Utah,Miami,0.0
+1,Golden State,Minnesota,1.0
+0,LA Clippers,Phoenix,1.0
+0,New Orleans,Atlanta,0.0
+1,Indiana,Boston,0.0
+0,New York,Charlotte,0.0
+0,LA Clippers,Dallas,0.0
+0,Milwaukee,Denver,0.0
+1,Brooklyn,Houston,0.0
+1,Golden State,Memphis,1.0
+0,LA Lakers,Orlando,0.0
+1,Toronto,Philadelphia,1.0
+1,San Antonio,Portland,0.0
+0,Detroit,Sacramento,0.0
+0,Utah,Cleveland,0.0
+0,LA Lakers,Miami,0.0
+1,Boston,Milwaukee,0.0
+1,Charlotte,Minnesota,1.0
+0,Dallas,New Orleans,0.0
+1,New York,Toronto,0.0
+1,Oklahoma City,Washington,0.0
+1,Minnesota,Atlanta,0.0
+0,Portland,Denver,0.0
+0,Detroit,Golden State,0.0
+0,Orlando,Indiana,0.0
+0,Memphis,LA Clippers,0.0
+1,Chicago,Philadelphia,1.0
+1,San Antonio,Sacramento,1.0
+0,Indiana,Cleveland,0.0
+0,Toronto,Miami,0.0
+0,LA Lakers,New York,0.0
+0,Phoenix,Oklahoma City,0.0
+1,Detroit,Portland,0.0
+0,Washington,Atlanta,0.0
+1,Minnesota,Chicago,0.0
+0,New Orleans,Dallas,0.0
+1,Houston,LA Clippers,0.0
+0,Brooklyn,Milwaukee,0.0
+1,Orlando,Philadelphia,1.0
+1,Golden State,Sacramento,1.0
+0,Charlotte,San Antonio,0.0
+0,Memphis,Utah,0.0
+0,Washington,Boston,0.0
+1,LA Lakers,Brooklyn,0.0
+0,Philadelphia,Cleveland,0.0
+0,Denver,Golden State,0.0
+0,Miami,Indiana,0.0
+1,Atlanta,New Orleans,0.0
+1,Milwaukee,New York,0.0
+0,Toronto,Orlando,0.0
+1,Detroit,Phoenix,1.0
+1,Houston,Sacramento,0.0
+0,Oklahoma City,Chicago,0.0
+1,Charlotte,Dallas,0.0
+1,Utah,Denver,0.0
+1,Miami,Minnesota,1.0
+0,Memphis,Portland,0.0
+0,Brooklyn,Atlanta,0.0
+0,New York,Cleveland,0.0
+0,LA Clippers,Golden State,0.0
+0,Orlando,Houston,0.0
+0,Boston,Indiana,0.0
+0,Philadelphia,Milwaukee,0.0
+1,Toronto,Oklahoma City,0.0
+0,Sacramento,Phoenix,0.0
+1,Portland,Utah,0.0
+0,San Antonio,Washington,1.0
+0,Chicago,Charlotte,0.0
+1,Toronto,Dallas,0.0
+1,Indiana,Detroit,0.0
+1,Denver,LA Lakers,1.0
+1,Atlanta,Miami,0.0
+1,Orlando,New Orleans,0.0
+1,Memphis,Sacramento,0.0
+1,Milwaukee,Brooklyn,0.0
+0,Memphis,Golden State,0.0
+0,Oklahoma City,Houston,0.0
+0,Phoenix,LA Clippers,0.0
+1,Portland,Minnesota,1.0
+1,San Antonio,New York,1.0
+1,Cleveland,Philadelphia,1.0
+1,San Antonio,Boston,0.0
+0,Orlando,Chicago,0.0
+1,Atlanta,Charlotte,0.0
+1,Dallas,LA Lakers,1.0
+0,Houston,Miami,0.0
+0,Denver,Oklahoma City,0.0
+0,Milwaukee,Toronto,0.0
+1,Utah,Indiana,0.0
+0,Sacramento,LA Clippers,0.0
+0,Brooklyn,Memphis,0.0
+1,Golden State,New Orleans,1.0
+1,Phoenix,Portland,0.0
+1,New York,Washington,0.0
+0,Charlotte,Atlanta,0.0
+1,Toronto,Boston,0.0
+0,Miami,Cleveland,0.0
+1,Minnesota,Denver,0.0
+0,Chicago,Detroit,0.0
+1,Golden State,Houston,1.0
+1,Washington,Milwaukee,0.0
+1,Oklahoma City,Orlando,0.0
+1,Utah,Philadelphia,1.0
+0,Portland,Phoenix,1.0
+0,LA Lakers,Sacramento,0.0
+0,Brooklyn,San Antonio,0.0
+1,Memphis,Indiana,0.0
+0,Dallas,LA Clippers,0.0
+1,Atlanta,New York,0.0
+0,Philadelphia,Boston,0.0
+1,Chicago,Brooklyn,1.0
+0,Utah,Detroit,0.0
+1,Denver,Houston,0.0
+1,Minnesota,LA Lakers,0.0
+1,Cleveland,Memphis,0.0
+0,Charlotte,Miami,0.0
+1,New York,Milwaukee,0.0
+0,San Antonio,Oklahoma City,0.0
+1,Washington,Orlando,0.0
+1,Dallas,Phoenix,1.0
+0,New Orleans,Portland,0.0
+1,LA Clippers,Sacramento,1.0
+0,Indiana,Toronto,0.0
+1,Detroit,Atlanta,0.0
+0,Cleveland,Chicago,0.0
+0,New Orleans,Golden State,0.0
