@@ -15,7 +15,7 @@ This program is used to predict the result of 2015-1016 NBA regular season using
 - Operating System: MAC OS X EI Captian
 - Language: python 
 - Software: pyspark
-- Lib: numpy, pyspar.mlib, requests, re, BeautifulSoup
+- Lib: numpy, pyspark.mlib, requests, re, BeautifulSoup
 
 ##Programs
 ###NaiveBayesianModel
