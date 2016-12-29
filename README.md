@@ -1,12 +1,5 @@
 # Data_Analysis_for_Basketball_Matches_Outcomes_Prediction
 
-##Group ID: 201612-84
-
-##Group member:
-- Guang Yang, gy2237@columbia.edu
-- Shutian Liu, sl4039@columbia.edu
-- Shu Fang, sf2794@columbia.edu
-
 ##Introduction
 
 This program is used to predict the result of 2015-1016 NBA regular season using naive bayesian model. This program did not use any public dataset, all the data were downloaded by python web crawler, from NBA reference 'http://www.basketball-reference.com'. This program also contains all the used web crawler.
